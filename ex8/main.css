@@ -5,3 +5,9 @@
 #description, #search, #todo-list {
     font-size: 1.5em;
 }
+li {
+  margin: 20px;
+}
+button {
+  margin: 20px;
+}
